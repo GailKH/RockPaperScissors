@@ -1,0 +1,15 @@
+img {
+    width: 200px;
+    height: auto; 
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
